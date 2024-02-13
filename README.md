@@ -1,6 +1,6 @@
 - 👋 Olá, sou @MSVoltage
 - 👀 Estou interessado em aprender mais sobre Neurotecnologia.
-- 🌱 Atualmente estou aprendendo eletrônica intermediaria.
+- 🌱 Atualmente estou aprendendo eletrônica avançada.
 - 💞️ Estou procurando colaborar em projetos de eletrônica digital, analógica, sistemas embarcados e desenvolvimento de PCI's.
 - 📫 Você pode me contatar através do meu e-mail: msvoltagechannel@gmail.com.
 - 😄 Pronomes: ele/dele
