@@ -1,8 +1,7 @@
 - 👋 Olá, sou @MSVoltage
 - 👀 Estou interessado em aprender mais sobre Neurotecnologia.
 - 🌱 Atualmente estou aprendendo eletrônica avançada.
-- 💞️ Estou procurando colaborar em projetos de eletrônica digital, analógica, sistemas embarcados e desenvolvimento de PCI's.
-- 📫 Você pode me contatar através do meu e-mail: msvoltagechannel@gmail.com.
+- 🤖 Estou procurando colaborar em projetos de eletrônica digital, analógica, sistemas embarcados e desenvolvimento de PCI's.
 - 😄 Pronomes: ele/dele.
 - ⚡ Interesse acadêmico: Grande entusiasta de Nikola Tesla.
 
